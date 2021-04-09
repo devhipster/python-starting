@@ -35,3 +35,13 @@ Server =  tuple[Address,ConnectionOptions]
 
 
 
+        """  Comprehension in debunking """
+
+
+
+
+        
+
+
+
+
